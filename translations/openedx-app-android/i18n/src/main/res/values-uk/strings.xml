@@ -371,7 +371,7 @@
 	<string name="profile.profile_calendar_access_dialog_description">Щоб відображати майбутні завдання та етапи курсу в календарі, нам потрібен дозвіл на доступ до вашого календаря.</string>
 	<string name="profile.profile_grant_access_calendar">Надати доступ до календаря</string>
 	<string name="profile.profile_new_calendar">Новий календар</string>
-	<string name="profile.profile_new_calendar_description">Майбутні завдання для активних курсів з\'являться в цьому календарі</string>
+	<string name="profile.profile_new_calendar_description">У цьому календарі відображатимуться майбутні завдання для активних курсів</string>
 	<string name="profile.profile_begin_syncing">Почати синхронізацію</string>
 	<string name="profile.profile_calendar_name">Назва календаря</string>
 	<string name="profile.calendar_color_red">Червоний</string>
