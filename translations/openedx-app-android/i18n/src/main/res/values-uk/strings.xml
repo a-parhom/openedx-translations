@@ -21,7 +21,7 @@
 
 	<string name="dashboard.dashboard_courses">Курси</string>
 	<string name="dashboard.dashboard_you_are_not_enrolled">Ви ще не зареєстровані на жоден курс.</string>
-	<string name="dashboard.dashboard_learn">Навчання</string>
+	<string name="dashboard.dashboard_learn">Курси</string>
 	<string name="dashboard.dashboard_programs">Програми</string>
 	<string name="dashboard.dashboard_course_date">Курс %1$s</string>
 	<string name="dashboard.dashboard_start_course">Почати курс</string>
@@ -47,7 +47,7 @@
 	<string name="auth.auth_email">Електронна пошта</string>
 	<string name="auth.auth_invalid_email">Неправильна електронна пошта</string>
 	<string name="auth.auth_invalid_password">Пароль занадто короткий</string>
-	<string name="auth.auth_welcome_back">Ласкаво просимо назад! Увійдіть, щоб отримати доступ до ваших курсів.</string>
+	<string name="auth.auth_welcome_back">З поверненням! Авторизуйтесь, щоб продовжити.</string>
 	<string name="auth.auth_show_optional_fields">Показати додаткові поля</string>
 	<string name="auth.auth_hide_optional_fields">Приховати додаткові поля</string>
 	<string name="auth.auth_create_account">Створити акаунт</string>
@@ -161,8 +161,8 @@
 	<string name="app.action_settings">Налаштування</string>
 	<string name="app.next">Далі</string>
 	<string name="app.previous">Назад</string>
-	<string name="app.app_navigation_discovery">Дослідження</string>
-	<string name="app.app_navigation_learn">Навчання</string>
+	<string name="app.app_navigation_discovery">Всі курси</string>
+	<string name="app.app_navigation_learn">Мої курси</string>
 	<string name="app.app_navigation_programs">Програми</string>
 	<string name="app.app_navigation_profile">Профіль</string>
 

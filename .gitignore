@@ -3,6 +3,7 @@ __pycache__
 *,cover
 .coverage
 htmlcov
+**/.DS_Store
 
 # msgfmt sometimes leaves these behind in the root directory
 /*.mo
