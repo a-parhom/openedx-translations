@@ -29,6 +29,8 @@
   "header.menu.account.label": "Обліковий запис",
   "header.menu.orderHistory.label": "Історія замовлень",
   "header.navigation.skipNavLink": "Перейти до головного змісту.",
+  "header.navigation.coursesCatalog": "Каталог курсів",
+  "header.navigation.certificates": "Сертифікати",
   "header.menu.signOut.label": "Вийти",
   "header.user.menu.studio": "Головна сторінка в Студії",
   "header.user.menu.maintenance": "Технічні робити",
