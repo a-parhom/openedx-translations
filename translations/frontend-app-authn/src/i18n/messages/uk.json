@@ -169,7 +169,7 @@
   "reset.password.success": "Ваш пароль скинуто. Увійдіть до свого облікового запису.",
   "rate.limit.error": "Сталася помилка через велику кількість запитів. Спробуйте ще раз через деякий час.",
   "start.learning": "Почати навчання",
-  "with.site.name": "з {siteName}",
+  "with.site.name": "зі {siteName}",
   "your.career.turning.point": "Поворотний момент Вашої кар'єри",
   "is.here": "починається тут.",
   "welcome.to.platform": "Ласкаво просимо до {siteName} , {fullName} !",
