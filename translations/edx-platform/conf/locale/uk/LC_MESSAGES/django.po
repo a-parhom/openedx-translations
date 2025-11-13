@@ -23223,3 +23223,6 @@ msgstr "Тут розмістіть текст про авторське пра�
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Редактор коду"
+
+msgid "Discover courses"
+msgstr "Каталог курсів" 
