@@ -23224,8 +23224,14 @@ msgstr "Тут розмістіть текст про авторське пра�
 msgid "Code Editor"
 msgstr "Редактор коду"
 
+msgid "Discover"
+msgstr "Каталог курсів" 
+
 msgid "Discover courses"
 msgstr "Каталог курсів" 
 
 msgid "Course Summary"
 msgstr "Інформація про курс"
+
+msgid "Already Enrolled"
+msgstr "Ви вже записані"
