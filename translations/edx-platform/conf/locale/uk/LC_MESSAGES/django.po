@@ -19279,11 +19279,11 @@ msgstr "Переглянути сторінку «Про курс» у студ�
 
 #: lms/templates/courseware/course_about.html:170
 msgid "Classes Start"
-msgstr "Заняття починаються"
+msgstr "Початок курсу"
 
 #: lms/templates/courseware/course_about.html:190
 msgid "Classes End"
-msgstr "Заняття закінчуються"
+msgstr "Кінець курсу"
 
 #: lms/templates/courseware/course_about.html:203
 msgid "Estimated Effort"
@@ -23226,3 +23226,6 @@ msgstr "Редактор коду"
 
 msgid "Discover courses"
 msgstr "Каталог курсів" 
+
+msgid "Course Summary"
+msgstr "Інформація про курс"
